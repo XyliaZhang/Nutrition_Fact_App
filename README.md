@@ -17,7 +17,7 @@ ps. It was a little tool that I make for my friend and also my ex-collegue Lulu 
 
 ![Output](https://user-images.githubusercontent.com/69572417/126304959-de4fe968-c3f8-46a2-88a6-f6778504e817.PNG)
 
-●Then I Use .... to pack the app.
+●Then I use Pyinstaller to pack the apps.
 
 
 
