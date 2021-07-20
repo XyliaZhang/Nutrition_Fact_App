@@ -1,6 +1,8 @@
 # Nutrition_Fact_App
 Build your own  nutrition fact database and calculate the nutrition value of your own recipe.
 
+ps. It was a little tool that I make for my friend and also my ex-collegue Lulu to speed up her work as a functional food formula R&D. This explains why there are greetings in my apps, cause it's a gift. ^___^
+
 1.Build Database
 
 ![Database](https://user-images.githubusercontent.com/69572417/126296579-735ba5b8-5af0-4b22-a1a9-15d77641be4b.PNG)
