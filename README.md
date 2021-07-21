@@ -17,10 +17,11 @@ ps. It was a little tool that I make for my friend and also my ex-collegue Lulu 
 
 ![Output](https://user-images.githubusercontent.com/69572417/126304959-de4fe968-c3f8-46a2-88a6-f6778504e817.PNG)
 
-●Then I use Pyinstaller to pack the apps.
+●Then I rearrange the file structure and use Pyinstaller to pack the apps.
 
 pyinstaller -i img.ico  [-w] ./Database.py
 pyinstaller -i img.ico  [-w] ./Calculator.py
 
-ps.I decided to keep the log window to inspect the process and error.
+ps.I decided to keep the log window for inspecting the process and error.
 
+![file](https://user-images.githubusercontent.com/69572417/126459719-5b0544a3-352f-4aac-b51e-17496b10461a.PNG)
