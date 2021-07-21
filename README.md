@@ -19,6 +19,8 @@ ps. It was a little tool that I make for my friend and also my ex-collegue Lulu 
 
 ●Then I use Pyinstaller to pack the apps.
 
+pyinstaller -i img.ico  [-w] ./Database.py
+pyinstaller -i img.ico  [-w] ./Calculator.py
 
-
+ps.I decided to keep the log window to inspect the process and error.
 
