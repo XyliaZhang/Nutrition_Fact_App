@@ -1,4 +1,6 @@
 # Nutrition_Fact_App 
+(#python-tkinter,pandas,openpyxl)
+
 Build your own  nutrition fact database and calculate the nutrition value of your own recipe.
 
 ps. It was a little tool that I make for my friend and also my ex-collegue Lulu to speed up her work as a functional food formula R&D. This explains why there are greetings in my apps, because it's a gift. ^___^
