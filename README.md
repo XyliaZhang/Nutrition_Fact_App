@@ -1,5 +1,5 @@
 # Nutrition_Fact_App 
-(#python-tkinter,pandas,openpyxl)
+( # python - tkinter, pandas, openpyxl )
 
 Build your own  nutrition fact database and calculate the nutrition value of your own recipe.
 
